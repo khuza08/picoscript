@@ -1,4 +1,5 @@
-Can connect via this command: nc mimas.picoctf.net 57322
+```
+connect via nc, example : nc mimas.picoctf.net 57322
 
 This payload of many %p values with commas could be sent to get the relevant values.
 
@@ -21,3 +22,4 @@ It first could be seen that it is in reverse order so in CyberChef the reverse f
 Decoding this should give the flag.
 
 Flag: picoCTF{7y13_4x4_f14g_b54n1m41_5d7...}
+```
